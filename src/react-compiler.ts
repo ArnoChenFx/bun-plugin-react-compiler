@@ -45,5 +45,5 @@ export function reactCompiler(
         },
     };
 }
-
-export default reactCompiler;
+var react_compiler_default = reactCompiler();
+export default react_compiler_default;
